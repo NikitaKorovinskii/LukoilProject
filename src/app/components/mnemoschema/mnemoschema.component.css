@@ -1,0 +1,35 @@
+.divs{
+  background: white;
+}
+
+.pressure{
+  position: absolute;
+  bottom: 500px;
+  left: 250px;
+  width: 80px;
+  height: 20px;
+  background: white;
+  text-align: center;
+}
+.photoMnemoshema{
+  position: relative;
+}
+.density{
+  position: absolute;
+  bottom: 720px;
+  right: 580px;
+  width: 80px;
+  height: 20px;
+  background: white;
+  text-align: center;
+}
+.concentration{
+  position: absolute;
+  bottom: 720px;
+  left: 45%;
+  width: 80px;
+  height: 20px;
+  background: white;
+  text-align: center;
+}
+

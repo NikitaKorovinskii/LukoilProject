@@ -1,4 +1,4 @@
-#Описание кода для ConsoleApplication1:
+Описание кода для ConsoleApplication1:
 
 Данный код представляет собой консольное приложение на языке C#, которое получает данные из OPC сервера, отправляет их в Apache Kafka и записывает их в базу данных ClickHouse.
 
@@ -17,7 +17,7 @@
 - В данном коде используются библиотеки ClickHouse.Net для работы с ClickHouse, Confluent.Kafka для работы с Apache Kafka и TitaniumAS.Opc.Client для работы с OPC сервером.
 - Если вы столкнулись с ошибками при запуске этого кода, убедитесь, что вы правильно установили .NET Core SDK, установили необходимые пакеты через NuGet и настроили подключения к OPC серверу, Apache Kafka и базе данных ClickHouse.
 
-#Описание кода для ConsoleApplication2:
+Описание кода для ConsoleApplication2:
 
 Пример кода на C#, который демонстрирует чтение сообщений из Apache Kafka и запись их в ClickHouse.
 

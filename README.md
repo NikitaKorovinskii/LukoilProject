@@ -4,5 +4,5 @@
 ## Cодержание
 
 - [MatriconClient](https://github.com/NikitaKorovinskii/LukoilProject/tree/MatriconClient)
-- [ClickHouse.Net](http://clickhouse.net/)
-- [ClickHouse.Net](http://clickhouse.net/)
+- [WebClient](https://github.com/NikitaKorovinskii/LukoilProject/tree/WebClient)
+- [WebServer](https://github.com/NikitaKorovinskii/LukoilProject/tree/WebServer)
